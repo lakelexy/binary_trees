@@ -2,6 +2,7 @@
 /**
 * binary_tree_size - finds the size of a tree
 * @tree: the tree to find size
+* Return: Size of the binary tree or 0 if NULL
 *
 */
 size_t binary_tree_size(const binary_tree_t *tree)
